@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.log
+/node_modules/
+/.env
+/.vscode/
+*.pyc
+__pycache__/
+# OneDrive cache
+~$*
+# macOS
+.DS_Store
+
+# Editor folders
+.idea/
+*.sublime-workspace
+
+# Ignore large uploads if you prefer not to track them
+wp-content/uploads/siteground-optimizer-assets/

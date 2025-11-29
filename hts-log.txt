@@ -1,0 +1,276 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Oct 2025 11:40:30 at https://portfolio-grazzarte +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://portfolio-grazzarte -O1 "C:\Users\gacas\OneDrive - Acadêmico - Ânima Educação\workspaces\PORTFOLIO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:41:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://portfolio-grazzarte/xmlrpc.php (from https://portfolio-grazzarte/)
+
+11:41:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://portfolio-grazzarte/xmlrpc.php?rsd (from https://portfolio-grazzarte/)
+
+11:44:14	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/)
+
+11:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://portfolio-grazzarte/xmlrpc.php (mimo-da-danyhamdannaway.com/)
+mimo-da-dany
+11:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://portfolio-grazzarte/xmlrpc.php?rsd (from https://portfolio-grazzarte/)
+
+11:44:15	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=2
+
+11:44:15	Warning: 	File has moved from https://portfolio-grazzarte/?p=2 to https://portfolio-grazzarte/about
+
+11:45:26	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1552
+
+11:45:26	Warning: 	File has moved from https://portfolio-grazzarte/?p=1552 to https://portfolio-grazzarte/learn-ui-design
+
+11:46:56	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=7
+
+11:46:56	Warning: 	File has moved from https://portfolio-grazzarte/?p=7 to https://portfolio-grazzarte/portfolio
+
+11:57:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=11
+
+11:57:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=11 to https://portfolio-grazzarte/contact
+
+11:57:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1592
+
+11:57:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=1592 to https://portfolio-grazzarte/portfolio/figma-design-system
+
+11:57:23	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/portfolio/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/portfolio/figma-design-system)
+
+11:57:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=850
+
+11:57:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=850 to https://portfolio-grazzarte/portfolio/delicias-de-milho
+
+11:57:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=462
+
+11:57:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=462 to https://portfolio-grazzarte/portfolio/creating-a-lean-design-system
+
+11:57:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://portfolio-grazzarte/xmlrpc.php (from https://portfolio-grazzarte/)
+
+11:57:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://portfolio-grazzarte/xmlrpc.php?rsd (from https://portfolio-grazzarte/)
+
+11:57:50	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=584
+
+11:57:50	Warning: 	File has moved from https://portfolio-grazzarte/?p=584 to https://portfolio-grazzarte/blog/how-i-became-a-designer
+
+12:00:11	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/how-i-became-a-designer)
+
+12:00:11	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=5
+
+12:00:11	Warning: 	File has moved from https://portfolio-grazzarte/?p=5 to https://portfolio-grazzarte/featured
+
+12:00:11	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=879
+
+12:00:11	Warning: 	File has moved from https://portfolio-grazzarte/?p=879 to https://portfolio-grazzarte/blog/ui-design/ui-design-tips
+
+12:00:23	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/ui-design/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/ui-design/ui-design-tips)
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1581
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=1581 to https://portfolio-grazzarte/design-resources
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=453
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=453 to https://portfolio-grazzarte/portfolio/interior-design-news-feed
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=444
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=444 to https://portfolio-grazzarte/portfolio/qantas-map-search
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=409
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=409 to https://portfolio-grazzarte/portfolio/qantas-homepage
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=405
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=405 to https://portfolio-grazzarte/portfolio/rethinking-flight-search
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=150
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=150 to https://portfolio-grazzarte/portfolio/campaign-monitor-4
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=144
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=144 to https://portfolio-grazzarte/portfolio/campaign-monitor
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=167
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=167 to https://portfolio-grazzarte/portfolio/quest-research
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=146
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=146 to https://portfolio-grazzarte/portfolio/campaign-monitor-3
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=17
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=17 to https://portfolio-grazzarte/portfolio/growth-giant
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=165
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=165 to https://portfolio-grazzarte/portfolio/growth-giant-2
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=24
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=24 to https://portfolio-grazzarte/portfolio/freelancer
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=20
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=20 to https://portfolio-grazzarte/portfolio/hrhr
+
+12:00:23	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=36
+
+12:00:23	Warning: 	File has moved from https://portfolio-grazzarte/?p=36 to https://portfolio-grazzarte/portfolio/petra-capital
+
+12:01:13	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/page/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/page/2)
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1601
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1601 to https://portfolio-grazzarte/blog/ui-design/ui-design-tips-14
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1528
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1528 to https://portfolio-grazzarte/blog/web-design/design-portfolio-inspiration
+
+12:01:13	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/web-design/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/web-design/design-portfolio-inspiration)
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1488
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1488 to https://portfolio-grazzarte/blog/web-design/landing-page-design-inspiration
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1439
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1439 to https://portfolio-grazzarte/blog/web-design/free-web-design-inspiration
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1337
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1337 to https://portfolio-grazzarte/blog/icons/free-icon-sets
+
+12:01:13	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/icons/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/icons/free-icon-sets)
+
+12:01:13	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1
+
+12:01:13	Warning: 	File has moved from https://portfolio-grazzarte/?p=1 to https://portfolio-grazzarte/blog/branding/how-to-design-a-logo
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: Este host não é conhecido. ) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/morphological-matrix-logo-design1.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/illustrative-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/iconic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/typographic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-sketches.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-colour-scheme.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/final-logo-design.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/branding/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1259
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=1259 to https://portfolio-grazzarte/blog/design-systems/design-system-examples
+
+12:01:14	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/design-systems/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/design-systems/design-system-examples)
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=949
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=949 to https://portfolio-grazzarte/blog/ui-design/free-typefaces
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1072
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=1072 to https://portfolio-grazzarte/blog/web-design/figma-plugins-web-design
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=1034
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=1034 to https://portfolio-grazzarte/blog/design-systems/how-to-build-a-design-system
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=360
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=360 to https://portfolio-grazzarte/blog/ui-design/delicias-de-milhos
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=189
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=189 to https://portfolio-grazzarte/blog/ux-design/ux-design-books
+
+12:01:14	Error: 	"Not Found" (404) at link https://portfolio-grazzarte/blog/ux-design/js/jquery-1.7.2.min.js (from https://portfolio-grazzarte/blog/ux-design/ux-design-books)
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=274
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=274 to https://portfolio-grazzarte/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=760
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=760 to https://portfolio-grazzarte/blog/ui-design/button-design-tips
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=693
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=693 to https://portfolio-grazzarte/blog/ui-design/how-not-to-design-a-volume-control
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=114
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=114 to https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/12/the-mobile-book-art.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/12/mobile-illustration.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=107
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=107 to https://portfolio-grazzarte/blog/web-design/free-image-placeholder-services-to-generate-dummy-images
+
+12:01:14	Warning: 	Moved Permanently for https://portfolio-grazzarte/?p=87
+
+12:01:14	Warning: 	File has moved from https://portfolio-grazzarte/?p=87 to https://portfolio-grazzarte/blog/web-design/embed-fonts-in-your-website-with-google-web-fonts
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/morphological-matrix-logo-design1.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/illustrative-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/iconic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/typographic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-sketches.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-colour-scheme.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/final-logo-design.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/12/the-mobile-book-art.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+12:01:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link v2.sitegrazzarte.com/wp-content/uploads/2012/12/mobile-illustration.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/morphological-matrix-logo-design1.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/illustrative-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/iconic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/typographic-logo-designs.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-sketches.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/logo-colour-scheme.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/09/final-logo-design.jpg (from https://portfolio-grazzarte/blog/branding/how-to-design-a-logo)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.sitegrazzarte.com/wp-content/uploads/2012/12/the-mobile-book-art.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+12:01:14	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link v2.adhamdannaway.com/wp-content/uploads/2012/12/mobile-illustration.jpg (from https://portfolio-grazzarte/blog/web-design/review-of-the-mobile-book-by-smashing-magazine)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 44 seconds : 854 links scanned, 768 files written (60753124 bytes overall) [57626765 bytes received at 46323 bytes/sec], 5386250 bytes transferred using HTTP compression in 186 files, ratio 27%, 15.1 requests per connection
+
+(21 errors, 106 warnings, 0 messages)
+
